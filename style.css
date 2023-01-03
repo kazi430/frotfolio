@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-image: url("images/man4.jpg"  ) ;
+   background-repeat: no-repeat;
+}
+
+h1{
+    color: chartreuse;
+    text-decoration: overline wavy pink;
+    font-size: 25px;
+    background-color: cornflowerblue;
+    box-shadow:85px, yellow;
+}
+
+p{
+    font-size: 20px;
+    color:white;
+}
+.div1{
+    background-color: cadetblue;
+    margin:20px  ;
+    padding:25px;
+    font-size: 25px;
+    box-shadow:85px, yellow;
+}
+
+.div1 p{
+    font-size:25px;
+    font-style: italic;
+}
